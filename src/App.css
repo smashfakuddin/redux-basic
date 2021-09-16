@@ -1,0 +1,20 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+button{
+  padding: 5px 30px;
+  font-size: 25px;
+  margin: 5px;
+  cursor: pointer;
+}
+input{
+  padding: 10px;
+}
+.quantity{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
